@@ -1,2 +1,3 @@
-# sco-co.github.io
-GitHub Pages
+# Modified verion of the Creative Theme for Jekyll
+
+
